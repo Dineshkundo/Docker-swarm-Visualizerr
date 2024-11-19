@@ -1,8 +1,8 @@
 # Docker-swarm-Visualizer
 
 
+![image](https://github.com/user-attachments/assets/a3c706f7-352e-40b2-b4ae-345eb445b4d9)
 
-![Sample image of  nodes with data](./nodes.png)
 
 # Docker Swarm Visualizer
 *** note ***
